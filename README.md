@@ -30,3 +30,6 @@ The new files created by the filter utilities can then be visualized by `sentry_
 Examples of how to run all utilities in a terminal are provided at the top of each script.
 
 To test the workflow, a `sentry_spoofer.py` is provided which can generate or read out messages of the right format for the SENTRY or USBL services.
+
+## Contact
+For questions or comments on this work, please contact Victoria Preston (vpreston) or Genevieve Flaspohler (geflaspohler). An MIT license is applied to this work.
